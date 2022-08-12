@@ -1,0 +1,6 @@
+se creo el proyecto
+se anexo al proyecto la imagen del logo
+se le dio estilo a la aplicacion y especificamente a contenedor del logo y contenedor de la calculadora
+se creo  el componente para el boton con su prop.children
+se crearon los divs de las filas donde iran los botones (operarios, numeros y clear)
+se llego hasta el item 'definir funcion'
